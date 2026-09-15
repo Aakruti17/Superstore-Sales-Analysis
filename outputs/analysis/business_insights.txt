@@ -1,0 +1,20 @@
+SUPERSTORE SALES & PROFIT ANALYSIS - BUSINESS INSIGHTS
+============================================================
+
+Total Orders: 5009
+Total Sales: 2297200.86
+Total Profit: 286397.02
+Average Order Value: 458.61
+Average Discount: 15.62
+Profit Margin: 12.47
+Top Performing Region: West
+Top Sales Region: West
+Best Sales Category: Technology
+Most Profitable Category: Technology
+Top Selling Product: Canon imageCLASS 2200 Advanced Copier
+Least Profitable Product: Cubify CubeX 3D Printer Double Head Print
+Top Customer: Sean Miller
+Most Preferred Shipping Mode: Standard Class
+Loss-making Rows: 1871
+Average Profit at 30%+ Discount: -97.18
+Average Profit with No Discount: 66.9
